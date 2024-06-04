@@ -18,3 +18,6 @@ Produce .png screenshots at multiple timestamps for all given input files. Great
 
 ## ffprobe
 Produce a .csv of ffprobe output information for each input file.
+
+## Video to gif
+Convert a full video file into an animated gif.
