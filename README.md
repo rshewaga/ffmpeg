@@ -10,6 +10,9 @@ Generally, drag an input file onto the bat script to run it or provide your file
 ## Clip Lossless
 Produce a lossless video clip from an input file given a start and end timestamp.
 
+## Convert to mp4
+Convert an input file to mp4 with a given resolution, FPS, and quality.
+
 ## Denoise Track 2
 Extract the second audio track from a file, denoise it, then combine it with the first audio track of the input file into a new file.
 
